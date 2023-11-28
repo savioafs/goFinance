@@ -1,0 +1,3 @@
+DROP TABLE IF EXITS "users";
+DROP TABLE IF EXITS "categories";
+DROP TABLE IF EXITS "accounts";
